@@ -1,0 +1,12 @@
+{
+  "ID": "FAF1D97C18BB45C38387B892E8D59E7D",
+  "ActionKeyword": "fjson",
+  "Name": "JsonFormatter",
+  "Description": "Json formatter for Flow",
+  "Author": "Bayard1213",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Bayard1213/Flow.Launcher.Plugin.JsonFormatter",
+  "IcoPath": "Images\\json_formatter_icon.png",
+  "ExecuteFileName": "Flow.Launcher.Plugin.JsonFormatter.dll"
+}
