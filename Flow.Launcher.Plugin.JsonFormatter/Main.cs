@@ -25,7 +25,7 @@ public class JsonFormatter : IPlugin
             results.Add(new Result
             {
                 Title = "Введи JSON после ключевого слова",
-                SubTitle = "Например: json {\"a\":1,\"b\":[1,2,3]}",
+                SubTitle = "Например: fjson {\"a\":1,\"b\":[1,2,3]}",
                 IcoPath = "Images\\json_formatter_icon.png"
             });
             return results;
